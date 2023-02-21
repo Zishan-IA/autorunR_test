@@ -1,5 +1,5 @@
 name: Send email using Quarto and blastula
-on:push
+on: push
 jobs:
   render:
     runs-on: windows-latest
